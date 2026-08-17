@@ -1,0 +1,14 @@
+# KiCad
+*.lck
+*-backups/
+_autosave-*
+fp-info-cache
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+
+# KiCad local history (editor-managed snapshots, not project state)
+**/.history/
+
+# OS cruft
+.DS_Store
